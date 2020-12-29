@@ -33,7 +33,7 @@ const Country=({navigation, route})=>{
   url: 'https://covid-193.p.rapidapi.com/statistics',
   params: {country: getCountry},
   headers: {
-    'x-rapidapi-key': '4e2a74b1b3msh22f7c6870fd5a1cp1e0677jsnec033e1012ca',
+    'x-rapidapi-key': 'your own key',
     'x-rapidapi-host': 'covid-193.p.rapidapi.com'
   }
 };
