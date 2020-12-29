@@ -33,7 +33,7 @@ const options = {
   method: 'GET',
   url: 'https://covid-19-data.p.rapidapi.com/totals',
   headers: {
-    'x-rapidapi-key': '4e2a74b1b3msh22f7c6870fd5a1cp1e0677jsnec033e1012ca',
+    'x-rapidapi-key': 'your own key',
     'x-rapidapi-host': 'covid-19-data.p.rapidapi.com'
   }
 };
@@ -42,7 +42,7 @@ const options1 = {
   method: 'GET',
   url: 'https://world-population.p.rapidapi.com/worldpopulation',
   headers: {
-    'x-rapidapi-key': '4e2a74b1b3msh22f7c6870fd5a1cp1e0677jsnec033e1012ca',
+    'x-rapidapi-key': 'your own key',
     'x-rapidapi-host': 'world-population.p.rapidapi.com'
   }
 };
